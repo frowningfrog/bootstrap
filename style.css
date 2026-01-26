@@ -1,0 +1,32 @@
+body {
+  background-image: url(res/grid.png);
+  background-size: cover;
+  background-position-x: 75%;
+  margin: 0 2em 0 2em;
+  height: 100vh;
+  color: #0fefff;
+  font-family: "Orbitron", sans-serif;
+}
+
+#dom {
+  font-size: 20px;
+  color: #fff;
+}
+
+#title {
+  font-size: 42px;
+  font-weight: 900;
+}
+
+#sub {
+  font-size: 25px;
+  color: #ff9f0f;
+}
+
+#lcycle {
+  color: #0fefff;
+}
+
+.row {
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */

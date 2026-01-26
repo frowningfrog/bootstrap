@@ -1,0 +1,29 @@
+@use 'vars' as v;
+
+body {
+    background-image: url(res/grid.png);
+    background-size: cover;
+    background-position-x: 75%;
+    margin: 0 2em 0 2em;
+    height: 100vh;
+    color: v.$blue;
+    font-family: "Orbitron", sans-serif;
+}
+#dom {
+    font-size: 20px;
+    color: #fff;
+}
+#title {
+    font-size: 42px;
+    font-weight: 900;
+}
+#sub {
+    font-size: 25px;
+    color: v.$orange;
+}
+#lcycle {
+    color: v.$blue;
+}
+.row {
+    text-align: center;
+}
