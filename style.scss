@@ -9,7 +9,7 @@ body {
     color: v.$blue;
     font-family: "Orbitron", sans-serif;
 }
-#dom {
+#text {
     font-size: 20px;
     color: #fff;
 }
@@ -26,4 +26,23 @@ body {
 }
 .row {
     text-align: center;
+}
+.space {
+    height: 10vh;
+}
+button {
+    background-color: v.$blue;
+    color: v.$black;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    width: 12em;
+    height: 3em;
+}
+button:hover {
+    background-color: v.$orange;
+    color: v.$blue;
+}
+.nav {
+    justify-content: center;
 }
