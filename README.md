@@ -1,1 +1,1 @@
-an assignment for class demonstrating cometency with bootstrap
+an assignment for class demonstrating competency with bootstrap
